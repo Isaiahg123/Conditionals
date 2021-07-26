@@ -28,10 +28,10 @@ print('\n' + 'Task 1' + '\n')
 #       7. a <= b > c <= d
 #
 # WRITE CODE BELOW #
-a = float(input('a = '))
-b =
-c =
-d =
+a = float(input('a = b '))
+b =float(input('a == b==c '))
+c =float(input('a > b > c'))
+d =float(input('a < b < c < d')))
 
 print('a == b |', a == b)
 
@@ -54,12 +54,13 @@ print('\n' + 'Task 2' + '\n')
 #
 # WRITE CODE BELOW #
 word1 = input('enter a word: ')
-word2 =
+word2 = input('enter another word')
 
 if word1 == word2:
     print(word1, 'and', word2, 'are the same!')
 
-
+if word1 >word2:
+  print(word1,'is greater than',word2)
 # 3 - if-elif-else Statements
 print('\n' + 'Task 3' + '\n')
 # Instructions:
@@ -79,6 +80,9 @@ print('\n' + 'Task 3' + '\n')
 #
 # WRITE CODE BELOW #
 
-
+if num == 0
+  print("Doulble")
+elif 'both' num == 1
+    print('snake eyes!')
 
 
